@@ -1,0 +1,14 @@
+{
+    "pontos_galaticos": 10.5,
+    "custo_proximo_planeta": 1000,
+    "proximo_planeta_index": 0,
+    "planetas": [
+        {
+            "nome": "Terra-Mãe",
+            "nivel": 1,
+            "producao_base": 1,
+            "custo_base": 10,
+            "imagem_path": "planeta_base.png"
+        }
+    ]
+}

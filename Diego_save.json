@@ -1,0 +1,84 @@
+{
+    "pontos_galaticos": 230624701042.65482,
+    "custo_proximo_planeta": 275854735.3515625,
+    "proximo_planeta_index": 10,
+    "planetas": [
+        {
+            "nome": "Terra-Mãe",
+            "nivel": 145,
+            "producao_base": 1,
+            "custo_base": 10,
+            "imagem_path": "planeta_base.png"
+        },
+        {
+            "nome": "Colônia de Marte",
+            "nivel": 61,
+            "producao_base": 5,
+            "custo_base": 50,
+            "imagem_path": "planeta_marte.png"
+        },
+        {
+            "nome": "Minas de Europa",
+            "nivel": 23,
+            "producao_base": 20,
+            "custo_base": 250,
+            "imagem_path": "planeta_europa.png"
+        },
+        {
+            "nome": "Refinaria de Titã",
+            "nivel": 5,
+            "producao_base": 80,
+            "custo_base": 1200,
+            "imagem_path": "planeta_tita.png"
+        },
+        {
+            "nome": "Posto de Kepler-186f",
+            "nivel": 4,
+            "producao_base": 300,
+            "custo_base": 5000,
+            "imagem_path": "planeta_kepler.png"
+        },
+        {
+            "nome": "Mundo-Oceano de Gliese",
+            "nivel": 11,
+            "producao_base": 1200,
+            "custo_base": 20000,
+            "imagem_path": "planeta_gliese.png"
+        },
+        {
+            "nome": "Gigante Gasoso 'Nebula'",
+            "nivel": 27,
+            "producao_base": 5000,
+            "custo_base": 100000,
+            "imagem_path": "planeta_nebula.png"
+        },
+        {
+            "nome": "Planeta de Cristal 'Xylos'",
+            "nivel": 27,
+            "producao_base": 20000,
+            "custo_base": 500000,
+            "imagem_path": "planeta_xylos.png"
+        },
+        {
+            "nome": "Mundo-Colmeia 'Vespira'",
+            "nivel": 11,
+            "producao_base": 100000,
+            "custo_base": 2000000,
+            "imagem_path": "planeta_vespira.png"
+        },
+        {
+            "nome": "Forja Estelar 'Aethel'",
+            "nivel": 50,
+            "producao_base": 500000,
+            "custo_base": 10000000,
+            "imagem_path": "planeta_aethel.png"
+        },
+        {
+            "nome": "Centro Galático 'Nexus'",
+            "nivel": 42,
+            "producao_base": 2500000,
+            "custo_base": 50000000,
+            "imagem_path": "planeta_nexus.png"
+        }
+    ]
+}

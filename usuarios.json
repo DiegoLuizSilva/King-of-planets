@@ -1,0 +1,14 @@
+{
+    "Lucas Guerra": {
+        "salt": "80276a6ce5f70b4651dae5ca1ae7f6de",
+        "hash_senha": "aed940374582c1d5a1d1fb13674f94d996119d00fb2eaf2d085f348effc3264f"
+    },
+    "Diego": {
+        "salt": "51eb816b6909d613797fa23759030c7f",
+        "hash_senha": "e7ca057b17edb89b8902d3a386535890c3677ea9452ab4bc8d85057d06f8ba85"
+    },
+    "Diegs": {
+        "salt": "4eff4501899907d9d4e80d0be9af3da4",
+        "hash_senha": "46b33509959717c8df5353ff790d4003a131616065cf6e398bbbff24e47d472b"
+    }
+}
